@@ -2,7 +2,6 @@
 
 int main() 
 {
-	
     char s[100];
     scanf("%[^\n]%*c", &s);
   	
